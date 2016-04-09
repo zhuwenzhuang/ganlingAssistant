@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>wenbenkuang.png</file>
+        <file>shurukuang.png</file>
+        <file>toum.png</file>
+        <file>zuoye.png</file>
+        <file>kecheng.png</file>
+        <file>xuesheng.png</file>
+        <file>fanhuikecheng.png</file>
+        <file>download.png</file>
+        <file>upload.png</file>
+        <file>dianming.png</file>
+        <file>now/gongneng.jpg</file>
+        <file>now/kebiao.jpg</file>
+        <file>now/kejian.jpg</file>
+        <file>now/logging.jpg</file>
+        <file>now/mingdan.jpg</file>
+        <file>666.jpg</file>
+        <file>zuoye.jpg</file>
+        <file>xueshengxinxi.jpg</file>
+        <file>22.jpg</file>
+        <file>99.jpeg</file>
+    </qresource>
+</RCC>
